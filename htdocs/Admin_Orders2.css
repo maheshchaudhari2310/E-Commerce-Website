@@ -1,0 +1,67 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#Table1
+{
+   border: 2px solid #C0C0C0;
+   background-color: transparent;
+   background-image: none;
+   border-collapse: separate;
+   border-spacing: 1px;
+   margin: 0;
+}
+#Table1 td
+{
+   padding: 0;
+}
+#Table1 td div
+{
+   white-space: nowrap;
+}
+#Table1 .cell0
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 106px;
+   height: 58px;
+}
+#Table1 .cell1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 232px;
+   height: 58px;
+}
+#Table1 .cell2
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   width: 260px;
+   height: 58px;
+}
+#Table1 .cell3
+{
+   background-color: transparent;
+   background-image: none;
+   border: 1px #C0C0C0 solid;
+   text-align: left;
+   vertical-align: top;
+   height: 58px;
+}
