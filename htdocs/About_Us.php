@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
  <head>
-  <meta charset="UTF-8">
-  <meta name="Generator" content="EditPlus®">
-  <meta name="Author" content="">
-  <meta name="Keywords" content="">
-  <meta name="Description" content="">
 
   <title>About us</title>
   <meta charset="utf-8">
@@ -101,7 +96,7 @@
         <div class="row">
           <div class="col-md-8 col-sm-6 col-xs-12">
             <p class="copyright-text">Copyright &copy; 2022 All Rights Reserved by 
-         <a href="#">Unnati Kasar</a>.
+         <a href="#">Mahesh Chaudhari</a>.
             </p>
           </div>
 
